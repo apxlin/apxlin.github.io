@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student in Computer Science at [Arizona State University](https://www.asu.edu/), advised by [Prof. Zhichao Cao](https://zhichaocao.github.io/). I received my M.S. in Computer Science from the [University of California, Irvine](https://uci.edu/), where I was advised by [Prof. Faisal Nawab](https://www.faisalnawab.com/).
+Qi Lin is a Ph.D. student in the Intelligent Data Infrastructure Lab at [Arizona State University](https://www.asu.edu/). His research focuses on disaggregated database systems, cloud-native database systems, and query engines for AI/ML platforms. He is fortunate to be supervised by [Prof. Zhichao Cao](https://search.asu.edu/profile/4082902). Previously, he studied Computer Science as a master student at the [University of California, Irvine](https://uci.edu/), supervised by [Prof. Faisal Nawab](https://nawab.me/main/).
 
-I will join [Microsoft Research](https://www.microsoft.com/en-us/research/lab/microsoft-research-redmond/) as a Research Intern in Summer 2026.
+He will join [Microsoft Research](https://www.microsoft.com/en-us/research/lab/microsoft-research-redmond/) as a Research Intern in Summer 2026.
 
 Research Interests
 ======
@@ -19,7 +19,6 @@ Research Interests
 News
 ======
 * **[2026]** Paper accepted at **SIGMOD 2026**: "O3-LSM: Maximizing Disaggregated LSM Write Performance via Three-Layer Offloading."
-* **[2026]** Paper accepted at **HPDC 2026**: "An LLM Agent-Driven Automatic Tuning Framework for Data Systems."
 * **[2025]** Paper accepted at **EMNLP 2025**: "Bit-Flip Error Resilience in LLMs: A Comprehensive Analysis and Defense Framework."
 * **[2024]** Paper accepted at **EDBT 2024**: "Serving Deep Learning Model in Relational Databases."
 * **[2024]** Paper accepted at **TKDE 2024**: "RollStore: Hybrid Data Indexing for Decentralized Blockchain Applications."

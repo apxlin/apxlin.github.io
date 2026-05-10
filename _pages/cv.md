@@ -15,8 +15,6 @@ Education
   * Advisor: Prof. Zhichao Cao
 * **M.S. in Computer Science**, University of California, Irvine, 2021 -- 2023
   * Advisor: Prof. Faisal Nawab
-* **M.Eng. in Traffic Engineering**, Southeast University, 2017 -- 2020
-* **B.E. in Traffic Engineering**, Chongqing Jiaotong University, 2013 -- 2017
 
 Work Experience
 ======
