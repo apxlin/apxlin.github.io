@@ -11,54 +11,38 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* **Ph.D. Student in Computer Science**, Arizona State University, 2023 -- 2027 (Expected)
+  * Advisor: Prof. Zhichao Cao
+* **M.S. in Computer Science**, University of California, Irvine, 2021 -- 2023
+  * Advisor: Prof. Faisal Nawab
+* **M.Eng. in Traffic Engineering**, Southeast University, 2017 -- 2020
+* **B.E. in Traffic Engineering**, Chongqing Jiaotong University, 2013 -- 2017
 
-Work experience
+Work Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Research Intern (Incoming)**, Microsoft Research, Redmond, US -- Summer 2026
+* **Full-Time Algorithm Engineer**, Hikvision, Hangzhou, China -- Jul 2020 -- Sep 2021
 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
+
+Academic Services
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
+* Program Committee Member (Demo Track), ACM SIGSpatial 2025
+* Artifact Evaluation Committee Member, FAST 2025; SIGMOD 2025
+* Journal Reviewer, ACM Transactions on Software Engineering and Methodology (TOSEM); IEEE Transactions on Information Forensics and Security (TIFS)
+
+Grants & Awards
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
+* **ASU Fulton Fellowship**, Arizona State University (2023--2027)
+* **Academic Exchange Funding**, Southeast University (top 5% selection; 46/1,100+ students), 2019
+* **National First Prize**, China Undergraduate Mathematical Contest in Modeling (CUMCM) (Top 1%; 292/28,665 teams)
+
+Skills
 ======
-* Currently signed in to 43 different slack teams
+* **Programming Languages:** C/C++, Python, Java, SQL, MATLAB, Solidity
+* **Frameworks & Tools:** Linux, Docker, Kafka, Flink, RocksDB, Velox, PyTorch, NumPy, pandas, OpenCV, STL, Git, AWS, GCP, Spring Boot, Spring Cloud, Ethereum, Confluence, Jama, Jira
+* **Domains:** Distributed Systems, Key-Value Stores, Storage Systems, High-Performance Networking (RDMA, CXL), Database Systems, Blockchain, Machine Learning, Data Science, Software Engineering
