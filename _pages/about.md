@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Qi Lin is a Ph.D. student in the Intelligent Data Infrastructure Lab at [Arizona State University](https://www.asu.edu/). His research focuses on disaggregated database systems, cloud-native database systems, and query engines for AI/ML platforms. He is fortunate to be supervised by [Prof. Zhichao Cao](https://search.asu.edu/profile/4082902). Previously, he studied Computer Science as a master student at the [University of California, Irvine](https://uci.edu/), supervised by [Prof. Faisal Nawab](https://nawab.me/main/).
+Qi Lin is a Ph.D. student in the [Intelligent Data Infrastructure Lab](https://asu-idi.github.io/) at [Arizona State University](https://www.asu.edu/). His research focuses on disaggregated database systems, cloud-native database systems, and query engines for AI/ML platforms. He is fortunate to be supervised by [Prof. Zhichao Cao](https://search.asu.edu/profile/4082902). Previously, he studied Computer Science as a master student at the [University of California, Irvine](https://uci.edu/), supervised by [Prof. Faisal Nawab](https://nawab.me/main/).
 
 He will join [Microsoft Research](https://www.microsoft.com/en-us/research/lab/microsoft-research-redmond/) as a Research Intern in Summer 2026.
 
